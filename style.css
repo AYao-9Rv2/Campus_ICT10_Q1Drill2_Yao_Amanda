@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+body {
+    background-color: #581516;
+    color: #F9F9F9;
+}
+
+label 
+{
+    color: #581516;
+}
+.container {
+    padding: 20px;
+    text-align: justify;
+    color: #581516;
+    background-color: #F9F9F9;
+    border-radius: 15px;
+}
+
+.card button:hover {
+    opacity: 0.9;
+}
+
+
+form {
+  border-radius: 5px;
+  padding: 20px;
+}
+
+input {
+  width: 100%;
+  padding: 14px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
